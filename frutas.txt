@@ -1,6 +1,7 @@
 manzana
-uva
+uvas
 fresa
+borojo
 naranja
 pera
 sandia
