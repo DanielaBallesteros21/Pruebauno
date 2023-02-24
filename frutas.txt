@@ -1,0 +1,6 @@
+manzana
+uva
+fresa
+naranja
+pera
+sandia
