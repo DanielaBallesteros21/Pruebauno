@@ -3,3 +3,6 @@ Liebre
 leon
 tortuga
 elefante
+pez
+serpiente
+oso
