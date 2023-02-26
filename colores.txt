@@ -7,3 +7,6 @@ Cyan
 Azul
 Violeta
 Magenta
+Rosa
+Violeta
+Gris
