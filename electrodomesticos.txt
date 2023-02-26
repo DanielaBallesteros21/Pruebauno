@@ -1,0 +1,5 @@
+lavadora
+tv
+nevera 
+microhondas 
+estufa
