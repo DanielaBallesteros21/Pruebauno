@@ -3,3 +3,4 @@ tv
 nevera 
 microhondas 
 estufa
+Freidora de aire
