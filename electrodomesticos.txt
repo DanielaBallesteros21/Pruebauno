@@ -4,3 +4,4 @@ nevera
 microhondas 
 estufa
 Freidora de aire
+plancha

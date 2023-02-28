@@ -4,3 +4,4 @@ hierro
 wolframio
 plata
 uranio
+carbono
