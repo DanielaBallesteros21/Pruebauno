@@ -8,3 +8,5 @@ pera
 Maracuya
 sandia
 limon
+piña
+mango
