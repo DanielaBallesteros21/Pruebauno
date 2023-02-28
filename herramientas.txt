@@ -3,3 +3,5 @@ destornillador
 alicate
 pinzas
 metro
+sierra
+taladro
