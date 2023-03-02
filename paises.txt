@@ -4,3 +4,6 @@ Colombia
 Peru
 EE UU
 francia
+venezuela
+ecuador
+chile
